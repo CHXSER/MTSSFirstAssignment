@@ -3,3 +3,4 @@
 - processori.md
 componenti
 - scehde_madri.md
+periferiche
