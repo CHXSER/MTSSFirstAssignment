@@ -4,3 +4,4 @@
 componenti
 - scehde_madri.md
 periferiche
+- tastiere.md
